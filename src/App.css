@@ -1,0 +1,8 @@
+button:focus {
+  outline: none;
+}
+
+button:hover {
+  background: #f5c03a !important;
+  cursor: pointer;
+}
